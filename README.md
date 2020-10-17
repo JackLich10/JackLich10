@@ -3,6 +3,11 @@
 - I am a student at Duke University
 - I am a data analyst for the Duke Men's Basketball Team
 
+### Check out some of my projects in R and RShiny
+
+- College basketball [shiny application](https://jacklich10.shinyapps.io/Duke_Basketball/)
+- Duke 2020 DataFest competition [winner for best visualizations](https://www2.stat.duke.edu/datafest-covid19/projects/AmericasNextTopModellers_slides.pdf)
+
 ### Connect with me:
 
 [<img align="left" alt="jacklich10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
