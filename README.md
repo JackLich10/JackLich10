@@ -7,6 +7,10 @@
 
 - College basketball [shiny application](https://jacklich10.shinyapps.io/Duke_Basketball/)
 - Duke 2020 DataFest competition [winner for best visualizations](https://www2.stat.duke.edu/datafest-covid19/projects/AmericasNextTopModellers_slides.pdf)
+- College basketball [tracking data](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/Team22bExecSumm.pdf)
+  - Expected FG% based on shot distance, defender locations, time on shot clock, etc.
+  - Quantifying off-ball player "gravity" using barycentric coordinates
+- Predicting [baseball performance](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/Poster%20Presentation%20Team%2018.pdf) from vision and athletic assessments
 
 ### Connect with me:
 
