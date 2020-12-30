@@ -5,6 +5,7 @@
 
 ### Check out some of my projects in R and RShiny
 
+- Article on altering expected points added (EPA) for opponent while using dynamic rolling windows on [Open Source Football](https://www.opensourcefootball.com/posts/2020-12-29-exploring-rolling-averages-of-epa/)
 - College basketball [shiny application](https://jacklich10.shinyapps.io/Duke_Basketball/)
   - Display team or player [shot charts](https://github.com/JackLich10/JackLich10/blob/main/DukeZionWilliamsonShotChart201819.pdf) by game
 - Duke 2020 DataFest competition [winner for best visualizations](https://www2.stat.duke.edu/datafest-covid19/projects/AmericasNextTopModellers_slides.pdf)
