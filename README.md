@@ -10,7 +10,7 @@
   - Exploring stability and predictive power of [penalty rates](https://www.opensourcefootball.com/posts/2021-01-21-exploring-stability-and-predictive-power-of-penalties-in-the-nfl/)
 - College basketball [shiny application](https://jacklich10.shinyapps.io/Duke_Basketball/)
   - Display team or player [shot charts](https://github.com/JackLich10/JackLich10/blob/main/DukeZionWilliamsonShotChart201819.pdf) by game
-- Syracuse Football Analytics Blitz 2021 [Runner-Up](https://github.com/JackLich10/JackLich10/blob/main/Syracuse Football Analtyics.pdf)
+- Syracuse Football Analytics Blitz 2021 [Runner-Up](https://github.com/JackLich10/JackLich10/blob/main/Syracuse%20Football%20Analtyics.pdf)
 - Duke 2020 DataFest competition [winner for best visualizations](https://www2.stat.duke.edu/datafest-covid19/projects/AmericasNextTopModellers_slides.pdf)
 - College basketball [tracking data](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/Team22bExecSumm.pdf)
   - Expected FG% based on shot distance, defender locations, time on shot clock, etc.
