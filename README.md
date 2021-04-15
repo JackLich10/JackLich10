@@ -21,7 +21,9 @@
 ### Check out some of my packages and data sources
 
 - `gamezoneR` is an [R package](https://jacklich10.github.io/gamezoneR/index.html) for working with NCAA Men's Basketball play-by-play data from STATS LLC's GameZone. The package allows users to scrape team and master schedules as well as play-by-play data with shot locations into a tidy format. The main benefit of gamezoneR is the volume of shot location data available (typically 70,000+ in a season)
-- [NFL draft prospect data](https://github.com/JackLich10/nfl-draft-data) from ESPN for text analysis
+- [NFL draft prospect data](https://www.kaggle.com/jacklichtenstein/espn-nfl-draft-prospect-data) from ESPN dating back to 1967
+  - Text analysis for over 4,000 prospects
+  - ESPN draft prospect grades and positional ranks
 
 ### Connect with me:
 
