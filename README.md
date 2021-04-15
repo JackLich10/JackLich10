@@ -18,6 +18,11 @@
   - Quantifying off-ball player "gravity" using barycentric coordinates
 - Predicting [baseball performance](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/Poster%20Presentation%20Team%2018.pdf) from vision and athletic assessments
 
+### Check out some of my packages and data sources
+
+- `gamezoneR` is an [R package](https://jacklich10.github.io/gamezoneR/index.html) for working with NCAA Men's Basketball play-by-play data from STATS LLC's GameZone. The package allows users to scrape team and master schedules as well as play-by-play data with shot locations into a tidy format. The main benefit of gamezoneR is the volume of shot location data available (typically 70,000+ in a season)
+- [NFL draft prospect data](https://github.com/JackLich10/nfl-draft-data) from ESPN for text analysis
+
 ### Connect with me:
 
 [<img align="left" alt="jacklich10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
