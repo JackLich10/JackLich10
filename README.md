@@ -5,6 +5,7 @@
 
 ### Check out some of my projects in R and RShiny
 
+- 2021 NFL [Consensus Draft Board](https://jacklich10.shinyapps.io/nfl_consensus_bb/)
 - Syracuse Football Analytics Blitz 2021 [runner-up](https://github.com/JackLich10/JackLich10/blob/main/syracuse_football_analytics_blitz/Syracuse%20Football%20Analtyics.pdf)/Room 4 winner
   - Determining optimal run/pass ratios in the NFL
 - Articles on Open Source Football
