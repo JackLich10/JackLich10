@@ -1,4 +1,4 @@
-## Hi there, I'm Jack
+## Jack Lichtenstein
 
 - I am a student at Duke University
 - I am a data analyst for the Duke Men's Basketball Team
