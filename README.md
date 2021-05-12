@@ -26,14 +26,11 @@
 ### Check out some of my packages and data sources
 
 - `gamezoneR` is an [R package](https://jacklich10.github.io/gamezoneR/index.html) for working with NCAA Men's Basketball play-by-play data from STATS LLC's GameZone. The package allows users to scrape team and master schedules as well as play-by-play data with shot locations into a tidy format. The main benefit of gamezoneR is the volume of shot location data available (typically 170,000+ in a season) 
-
-<a href='http://jacklich10.github.io/gamezoneR'><img src='gamezoneR.png' style="float:center;margin:20px" height="120" /></a>
-
 - [NFL draft prospect data](https://www.kaggle.com/jacklichtenstein/espn-nfl-draft-prospect-data) from ESPN dating back to 1967
   - Text analysis for over 4,000 prospects
   - ESPN draft prospect grades and positional ranks
 
-[![nfl-draft-data Card](https://github-readme-stats.vercel.app/api/pin/?username=JackLich10&repo=nfl-draft-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/JackLich10/nfl-draft-data)
+<a href='http://jacklich10.xyz/shiny/consensus_bb'><img src='nfl_consensus_bb.png' style="float:center;margin:20px" height="120" /></a> <a href='http://jacklich10.github.io/gamezoneR'><img src='gamezoneR.png' style="float:center;margin:20px" height="120" /></a> [![nfl-draft-data Card](https://github-readme-stats.vercel.app/api/pin/?username=JackLich10&repo=nfl-draft-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/JackLich10/nfl-draft-data)
 
 ### Connect with me:
 
