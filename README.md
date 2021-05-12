@@ -2,6 +2,7 @@
 
 - I am a student at Duke University
 - I am a data analyst for the Duke Men's Basketball Team
+- I am a co-founder of the [Duke Sports Analytics Club](http://www.dukesportsanalytics.com/home)
 
 ### Check out some of my projects in R and RShiny
 
@@ -18,6 +19,9 @@
   - Expected FG% based on shot distance, defender locations, time on shot clock, etc.
   - Quantifying off-ball player "gravity" using barycentric coordinates
 - Predicting [baseball performance](https://bigdata.duke.edu/sites/bigdata.duke.edu/files/site-images/Poster%20Presentation%20Team%2018.pdf) from vision and athletic assessments
+- Basic tutorials and walkthroughs for the Duke Sports Analytics Club
+  - An [initial exploration](http://www.dukesportsanalytics.com/tutorial_post) of publicly available college basketball data
+  - [Getting started](https://github.com/Duke-Sports-Analytics-Club/sports-analytics-walkthrough) with common sports data sources like `nflfastR` and `kenpomR` as well as basic web-scraping
 
 ### Check out some of my packages and data sources
 
