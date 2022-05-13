@@ -1,8 +1,8 @@
 ## Jack Lichtenstein
 
-- I am a student at Duke University
-- I am a data analyst for the Duke Men's Basketball Team
-- I am a co-founder of the [Duke Sports Analytics Club](http://www.dukesportsanalytics.com/home)
+- I graduated Magna Cum Laude with a 3.969 GPA (nice) from Duke University in the class of 2022
+- I was a data and scouting analyst for the Duke Men's Basketball Team
+- I was a co-founder of the [Duke Sports Analytics Club](http://www.dukesportsanalytics.com/home)
 
 ### Check out some of my projects in R and RShiny
 
