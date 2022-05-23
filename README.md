@@ -7,7 +7,9 @@
 ### Check out some of my projects in R and RShiny
 
 - [2022 NFL Big Data Bowl college winner](https://operations.nfl.com/updates/football-ops/nfl-announces-finalists-for-fourth-annual-nfl-big-data-bowl/)
-- 2016-Present NFL [Consensus Draft Board](https://jacklich10.xyz/shiny/consensus_bb/) shiny application
+- 2016-Present [Consensus Draft Boards](https://jacklich10.xyz/bigboard/)
+  - [NFL Draft](https://jacklich10.xyz/bigboard/nfl/)
+  - [NBA Draft](https://jacklich10.xyz/bigboard/nba/)
 - Syracuse Football Analytics Blitz 2021 [runner-up](https://github.com/JackLich10/JackLich10/blob/main/syracuse_football_analytics_blitz/Syracuse%20Football%20Analtyics.pdf)/Room 4 winner
   - Determining optimal run/pass ratios in the NFL
 - Articles on Open Source Football
