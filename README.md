@@ -33,7 +33,7 @@
   - Text analysis for over 4,000 prospects
   - ESPN draft prospect grades and positional ranks
 
-<a href='http://jacklich10.xyz/bigboard/nfl'><img src='nfl_consensus_bb.png' style="float:center;margin:20px" height="120" /></a> <a href='http://jacklich10.xyz/bigboard/nba'><img src='nba_consensus_bb.png' style="float:center;margin:20px" height="120" /></a> <a href='http://jacklich10.github.io/gamezoneR'><img src='gamezoneR.png' style="float:center;margin:20px" height="120" /></a> [![nfl-draft-data Card](https://github-readme-stats.vercel.app/api/pin/?username=JackLich10&repo=nfl-draft-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/JackLich10/nfl-draft-data)
+<a href='http://jacklich10.xyz/bigboard/nfl'><img src='nfl_consensus_bb.png' style="float:center;margin:20px" height="120" /></a> <a href='http://jacklich10.xyz/bigboard/nba'><img src='nbaconsensusboardlogo.png' style="float:center;margin:20px" height="115" /></a> <a href='http://jacklich10.github.io/gamezoneR'><img src='gamezoneR.png' style="float:center;margin:20px" height="120" /></a> [![nfl-draft-data Card](https://github-readme-stats.vercel.app/api/pin/?username=JackLich10&repo=nfl-draft-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/JackLich10/nfl-draft-data)
 
 ### Connect with me:
 
