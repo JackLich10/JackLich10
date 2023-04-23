@@ -7,9 +7,9 @@
 ### Check out some of my projects in R and RShiny
 
 - [2022 NFL Big Data Bowl college winner](https://operations.nfl.com/updates/football-ops/nfl-announces-finalists-for-fourth-annual-nfl-big-data-bowl/)
-- 2016-Present [Consensus Draft Boards](https://jacklich10.xyz/bigboard/)
-  - [NFL Draft](https://jacklich10.xyz/bigboard/nfl/)
-  - [NBA Draft](https://jacklich10.xyz/bigboard/nba/)
+- 2016-Present [Consensus Draft Boards](https://jacklich10.com/bigboard/)
+  - [NFL Draft](https://jacklich10.com/bigboard/nfl/)
+  - [NBA Draft](https://jacklich10.com/bigboard/nba/)
 - Syracuse Football Analytics Blitz 2021 [runner-up](https://github.com/JackLich10/JackLich10/blob/main/syracuse_football_analytics_blitz/Syracuse%20Football%20Analtyics.pdf)/Room 4 winner
   - Determining optimal run/pass ratios in the NFL
 - Articles on Open Source Football
@@ -33,7 +33,7 @@
   - Text analysis for over 4,000 prospects
   - ESPN draft prospect grades and positional ranks
 
-<a href='http://jacklich10.xyz/bigboard/nfl'><img src='nfl_consensus_bb.png' style="float:center;margin:20px" height="120" /></a> <a href='http://jacklich10.xyz/bigboard/nba'><img src='nbaconsensusboardlogo.png' style="float:center;margin:20px" height="115" /></a> <a href='http://jacklich10.github.io/gamezoneR'><img src='gamezoneR.png' style="float:center;margin:20px" height="120" /></a> [![nfl-draft-data Card](https://github-readme-stats.vercel.app/api/pin/?username=JackLich10&repo=nfl-draft-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/JackLich10/nfl-draft-data)
+<a href='http://jacklich10.com/bigboard/nfl'><img src='nfl_consensus_bb.png' style="float:center;margin:20px" height="120" /></a> <a href='http://jacklich10.cpm/bigboard/nba'><img src='nbaconsensusboardlogo.png' style="float:center;margin:20px" height="115" /></a> <a href='http://jacklich10.github.io/gamezoneR'><img src='gamezoneR.png' style="float:center;margin:20px" height="120" /></a> [![nfl-draft-data Card](https://github-readme-stats.vercel.app/api/pin/?username=JackLich10&repo=nfl-draft-data&hide_border=true&show_icons=true&theme=monokai)](https://github.com/JackLich10/nfl-draft-data)
 
 ### Connect with me:
 
