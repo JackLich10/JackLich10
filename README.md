@@ -6,6 +6,7 @@
 
 ### Check out some of my projects in R and RShiny
 
+- [2023 NCAA March Madness Machine Learning Mania 7th place winner](https://www.kaggle.com/competitions/march-machine-learning-mania-2023/discussion/400116)
 - [2022 NFL Big Data Bowl college winner](https://operations.nfl.com/updates/football-ops/nfl-announces-finalists-for-fourth-annual-nfl-big-data-bowl/)
 - 2016-Present [Consensus Draft Boards](https://jacklich10.com/bigboard/)
   - [NFL Draft](https://jacklich10.com/bigboard/nfl/)
